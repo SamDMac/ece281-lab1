@@ -55,6 +55,7 @@ end thirtyOneDayMonth_tb;
 
 architecture test_bench of thirtyOneDayMonth_tb is 
 	
+	
   -- declare the component of your top-level design unit under test (UUT) (looks very similar to entity declaration)
   component thirtyoneDayMonth is
     port(
